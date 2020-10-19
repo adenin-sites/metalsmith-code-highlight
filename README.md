@@ -4,6 +4,8 @@
 
 Finds content with `<code>` elements and highlights it using [HighlightJS](https://github.com/isagalaev/highlight.js).
 
+This fork of the plugin adds linenumbers and copy to clipboard/expand buttons to code snippets.
+
 ## Example
 
 Input:
